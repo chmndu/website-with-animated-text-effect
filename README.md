@@ -14,7 +14,7 @@ Recreate an impressive website header section with animated text effects using H
 
 ## Demo
 
-For a live demo, you can visit [here](https://chamindud.github.io/website-with-animated-text-effect/).
+For a live demo, you can visit [here](https://chmndu.github.io/website-with-animated-text-effect/).
 
 ## Credits
 
